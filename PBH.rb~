@@ -27,7 +27,6 @@ case menu_choice
   when 6
   puts "Quit"
 end
-end
   
 
 
